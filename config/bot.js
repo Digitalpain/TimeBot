@@ -16,7 +16,7 @@ module.exports = {
 	name: "MyTimeBot",
 	/**
 	 * @desc Global bot command prefix
-	 * @default "?"
+	 * @default "&"
 	 * @type string
 	*/
 	prefix: "?",
